@@ -2,6 +2,7 @@
 ;Student Name and Surname nezaket Kaya
 ;Github Username nezaketkaya
 
+
 mov ax, 0100h
 mov ds, ax
 mov es, ax
